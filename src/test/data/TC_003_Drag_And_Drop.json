@@ -1,0 +1,11 @@
+[
+  {
+    "URL": "https://gold-confdevaos.sandbox.ax.dynamics.com/?cmp=004&mi=DefaultDashboard",
+    "URL_STAGE": "https://solmaxgse-ax-stage.sandbox.ax.dynamics.com",
+    "URL_GOLD": "https://gold-confdevaos.sandbox.ax.dynamics.com/?cmp=004&mi=DefaultDashboard",
+    "UserName": "qatesting@gseworld.com",
+    "Password": "Passw0rd",
+    "ModulePath": "Modules>Production control>Production orders>Production order schedule",
+    "Site": "1510"
+  }
+]

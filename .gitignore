@@ -1,0 +1,6 @@
+/.idea
+/test-output
+/.output
+*.iml
+/target
+/src/test/Reports

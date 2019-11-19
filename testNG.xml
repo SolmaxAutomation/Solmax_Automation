@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="TestSuite" verbose="1" >
+    <test name="TC_003_Drag_And_Drop" >
+        <classes>
+            <class name="TestScript">
+                <methods>
+                    <include name="testFLow3"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

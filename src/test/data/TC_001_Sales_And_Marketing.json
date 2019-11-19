@@ -1,0 +1,20 @@
+[
+  {
+    "URL": "https://gold-confdevaos.sandbox.ax.dynamics.com/?cmp=004&mi=DefaultDashboard",
+    "URL_STAGE": "https://solmaxgse-ax-stage.sandbox.ax.dynamics.com",
+    "URL_GOLD": "https://gold-confdevaos.sandbox.ax.dynamics.com/?cmp=004&mi=DefaultDashboard",
+    "UserName": "qatesting@gseworld.com",
+    "Password": "Passw0rd",
+    "ModulePath": "Modules>Sales and marketing>Relationships>Opportunities>All opportunities",
+    "OpportunityName" : "Test Opportunity",
+    "InterestLevel" : "50",
+    "Currency" : "USD",
+    "Language" : "EN-US",
+    "Estimate" : "250,000",
+    "SourceType" : "Customer",
+    "CountryRegion" : "USA",
+    "CountryState" : "TX",
+    "CityTown" : "Midland",
+    "Owner" : "Michelle T,Dinh"
+  }
+]

@@ -1,0 +1,42 @@
+<extentreports>
+    <configuration>
+        <!--reporttheme-->
+        <!--standard,dark-->
+        <theme>standard</theme>
+
+        <!--documentencoding-->
+        <!--defaultstoUTF-8-->
+        <encoding>UTF-8</encoding>
+
+        <!--protocolforscriptandstylesheets-->
+        <!--defaultstohttps-->
+        <protocol>https</protocol>
+
+        <!--titleofthedocument-->
+        <documentTitle>ExtentReports2.0</documentTitle>
+
+        <!--reportname-displayedattop-nav-->
+        <reportName></reportName>
+
+        <!--reportheadline-displayedattop-nav,afterreportHeadline-->
+        <reportHeadline>TestAutomationReport</reportHeadline>
+
+        <!--globaldateformatoverride-->
+        <!--defaultstoyyyy-MM-dd-->
+        <dateFormat>yyyy-MM-dd</dateFormat>
+
+        <!--globaltimeformatoverride-->
+        <!--defaultstoHH:mm:ss-->
+        <timeFormat>HH:mm:ss</timeFormat>
+
+        <!--customjavascript-->
+        <scripts>
+            <![CDATA[$(document).ready(function(){});]]>
+        </scripts>
+
+        <!--customstyles-->
+        <styles>
+            <![CDATA[]]>
+        </styles>
+    </configuration>
+</extentreports>
